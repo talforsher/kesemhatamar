@@ -191,6 +191,7 @@ function save() {
     <meta name="keywords" content="קסם התמר, טיפול הוליסטי, מסאז', אייורודה, שחרור לחצים">
     <meta name="robots" content="index, follow">
     <link rel="icon" href="logo.png">
+    <meta property="og:image" content="https://talforsher.github.io/kesemhatamar/logo.png">
     <title>קסם התמר | תמר גרוסקופ</title>
     <style>
         body {
