@@ -288,7 +288,7 @@ newImage.onchange = function () {
 
     // Define what happens on successful data submission
     XHR.addEventListener("load", function (event) {
-        document.getElementById('img').src = JSON.parse(event.target.responseText).filename
+        document.getElementById('img').src = "main.webp"
     });
 
     // Define what happens in case of error
