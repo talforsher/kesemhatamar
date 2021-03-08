@@ -187,11 +187,11 @@ function save() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Buit with Tal Forsher CMS">
-    <meta name="keywords" content="Tal Forsher">
+    <meta name="description" content="קסם התמר | בואו להטעין את המצברים ולשחרר את המכאובים | טיפול לגוף ולנפש | תמר גרוסקופ">
+    <meta name="keywords" content="קסם התמר, טיפול הוליסטי, מסאז', אייורודה, שחרור לחצים">
     <meta name="robots" content="index, follow">
-    <link rel="icon" href="dksimulations.jpg">
-    <title>Tenerife Project</title>
+    <link rel="icon" href="logo.png">
+    <title>קסם התמר | תמר גרוסקופ</title>
     <style>
         body {
             margin: 0;
